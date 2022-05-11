@@ -10,6 +10,11 @@ include_in_header: true
 <br>
 
 ### `Latest`
+
+### **Version 7.0.0**
+- Bug fixes and performance improvements.
+
+
 ### **Version 6.5.0**
 
 In this version:
